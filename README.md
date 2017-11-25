@@ -1,6 +1,6 @@
 # iVizit
 
-http://e022.000webhostapp.com
+# http://e022.000webhostapp.com
 
 ## VEGARD
   Route optimization API
